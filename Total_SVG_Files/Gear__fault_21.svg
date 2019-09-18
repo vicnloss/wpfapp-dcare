@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Microsoft Visio, SVG Export에서 생성되었습니다. Gear__fault_21.svg Gear_ft21_ -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+	<v:documentProperties v:langID="1042" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:맑은 고딕;font-size:0.916672em}
+		.st3 {font-size:1em}
+		.st4 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:맑은 고딕;font-size:0.666664em}
+		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {stroke:#7f7f7f;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st9 {font-family:Calibri;font-size:1em}
+		.st10 {fill:#000000;font-family:맑은 고딕;font-size:1.16666em;font-weight:bold}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="43" v:index="21" v:groupContext="foregroundPage">
+		<title>Gear_ft21_Bearing has Possible Lubrication</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="전기" v:index="0"/>
+		<v:layer v:name="연결선" v:index="1"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(28.3465,-396.631)">
+			<title>시트.2</title>
+			<desc>There is an unspecified anti-friction type bearing at Outboar...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="161.658" cy="579.561" width="323.32" height="31.4289"/>
+			<rect x="0" y="563.847" width="323.316" height="31.4289" class="st1"/>
+			<text x="9.44" y="576.26" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>There is an unspecified anti-friction type bearing at Outboard <tspan
+						x="161.57" dy="1.2em" class="st3">bearing position on Input Shaft</tspan></text>		</g>
+		<g id="shape3-5" v:mID="3" v:groupContext="shape" transform="translate(28.3465,-349.541)">
+			<title>시트.3</title>
+			<desc>There is a ball type anti-friction bearing at Outboard bearin...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="161.658" cy="579.561" width="323.32" height="31.4289"/>
+			<rect x="0" y="563.847" width="323.316" height="31.4289" class="st1"/>
+			<text x="12.98" y="576.26" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>There is a ball type anti-friction bearing at Outboard bearing <tspan
+						x="203.23" dy="1.2em" class="st3">position on Input Shaft</tspan></text>		</g>
+		<g id="shape4-9" v:mID="4" v:groupContext="shape" transform="translate(28.3465,-302.451)">
+			<title>시트.4</title>
+			<desc>There is a roller type anti-friction bearing at Outboard bear...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="161.658" cy="579.561" width="323.32" height="31.4289"/>
+			<rect x="0" y="563.847" width="323.316" height="31.4289" class="st1"/>
+			<text x="5.05" y="576.26" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>There is a roller type anti-friction bearing at Outboard bearing <tspan
+						x="203.23" dy="1.2em" class="st3">position on Input Shaft</tspan></text>		</g>
+		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(28.3465,-264.387)">
+			<title>시트.5</title>
+			<desc>gSE overall &#62; 80% of low alarm</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="161.658" cy="584.074" width="323.32" height="22.4037"/>
+			<rect x="0" y="572.872" width="323.316" height="22.4037" class="st1"/>
+			<text x="160.76" y="587.37" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>gSE overall &#62; 80% of low alarm</text>		</g>
+		<g id="shape6-16" v:mID="6" v:groupContext="shape" transform="translate(28.3465,-226.322)">
+			<title>시트.6</title>
+			<desc>Bearing Haystack does NOT exists</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="161.658" cy="584.074" width="323.32" height="22.4037"/>
+			<rect x="0" y="572.872" width="323.316" height="22.4037" class="st1"/>
+			<text x="148.41" y="587.37" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>Bearing Haystack does NOT exists</text>		</g>
+		<g id="shape7-19" v:mID="7" v:groupContext="shape" transform="translate(113.386,-188.258)">
+			<title>시트.7</title>
+			<desc>BPOR Frequency does NOT exist on Outboard bearing on Input Sh...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="119.138" cy="584.074" width="238.28" height="22.4037"/>
+			<rect x="0" y="572.872" width="238.277" height="22.4037" class="st1"/>
+			<text x="54.05" y="580.77" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>BPOR Frequency does NOT exist on <tspan
+						x="68.56" dy="1.2em" class="st3">Outboard bearing on Input Shaft</tspan></text>		</g>
+		<g id="shape8-23" v:mID="8" v:groupContext="shape" transform="translate(113.386,-150.193)">
+			<title>시트.8</title>
+			<desc>BPIR Frequency does NOT exist on Outboard bearing on Input Sh...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="119.138" cy="584.074" width="238.28" height="22.4037"/>
+			<rect x="0" y="572.872" width="238.277" height="22.4037" class="st1"/>
+			<text x="7.63" y="580.77" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>BPIR Frequency does NOT exist on Outboard <tspan
+						x="120.52" dy="1.2em" class="st3">bearing on Input Shaft</tspan></text>		</g>
+		<g id="shape16-27" v:mID="16" v:groupContext="shape" transform="translate(113.386,-112.129)">
+			<title>시트.16</title>
+			<desc>BSF Frequency does NOT exist on Outboard bearing on Input Shaft</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="119.138" cy="584.074" width="238.28" height="22.4037"/>
+			<rect x="0" y="572.872" width="238.277" height="22.4037" class="st1"/>
+			<text x="12.13" y="580.77" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>BSF Frequency does NOT exist on Outboard <tspan
+						x="120.52" dy="1.2em" class="st3">bearing on Input Shaft</tspan></text>		</g>
+		<g id="shape17-31" v:mID="17" v:groupContext="shape" transform="translate(99.2126,-74.0645)">
+			<title>시트.17</title>
+			<desc>2xBSF Frequency does NOT exist on Outboard bearing on Input S...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="126.225" cy="584.074" width="252.46" height="22.4037"/>
+			<rect x="0" y="572.872" width="252.45" height="22.4037" class="st1"/>
+			<text x="15.13" y="580.77" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>2xBSF Frequency does NOT exist on Outboard <tspan
+						x="134.69" dy="1.2em" class="st3">bearing on Input Shaft</tspan></text>		</g>
+		<g id="shape20-35" v:mID="20" v:groupContext="shape" transform="translate(99.2126,-36)">
+			<title>시트.20</title>
+			<desc>FTF Frequency does NOT exist on Outboard bearing on Input Shaft</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="126.225" cy="584.074" width="252.46" height="22.4037"/>
+			<rect x="0" y="572.872" width="252.45" height="22.4037" class="st1"/>
+			<text x="27.34" y="574.17" class="st2" v:langID="1033"><v:paragraph v:horizAlign="2"/><v:tabList/>FTF Frequency does NOT exist on Outboard <tspan
+						x="134.69" dy="1.2em" class="st3">bearing on Input Shaft</tspan><v:newlineChar/></text>		</g>
+		<g id="shape96-39" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-370.234)">
+			<title>I/O 포트.87</title>
+			<desc>Ans2</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="21.88" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans2</text>		</g>
+		<g id="shape97-42" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-330.227)">
+			<title>I/O 포트.88</title>
+			<desc>Ans3</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="21.88" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans3</text>		</g>
+		<g id="shape98-45" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-410.242)">
+			<title>I/O 포트.89</title>
+			<desc>Ans1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="22.58" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans1</text>		</g>
+		<g id="group99-48" transform="translate(436.903,-382.811)" v:mID="99" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(OR)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>논리 게이트 2.23</title>
+			<desc>G1</desc>
+			<g id="shape100-49" v:mID="100" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.100</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape101-54" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.101</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape102-56" v:mID="102" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.102</title>
+			</g>
+			<g id="shape103-58" v:mID="103" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.103</title>
+			</g>
+			<g id="shape104-60" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.104</title>
+			</g>
+			<g id="shape99-62" v:mID="99" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.84" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G1</text>			</g>
+		</g>
+		<g id="group105-64" transform="translate(517.117,-337.865)" v:mID="105" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(OR)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>논리 게이트 2.79</title>
+			<desc>G4</desc>
+			<g id="shape106-65" v:mID="106" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.106</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape107-70" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.107</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape108-72" v:mID="108" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.108</title>
+			</g>
+			<g id="shape109-74" v:mID="109" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.109</title>
+			</g>
+			<g id="shape110-76" v:mID="110" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.110</title>
+			</g>
+			<g id="shape105-78" v:mID="105" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.14" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G4</text>			</g>
+		</g>
+		<g id="shape111-80" v:mID="111" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-417.455)">
+			<title>동적 연결선</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="602.493" width="40" height="17.6036"/>
+			<path d="M0 598.22 L10.63 598.22 L10.63 606.5 L21.52 606.5" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1.69837" y="597.693" width="17.8632" height="9.59985" class="st8"/>
+			<text x="1.7" y="604.89" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape112-85" v:mID="112" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-374.503)">
+			<title>동적 연결선.153</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="587.089" width="40" height="17.6036"/>
+			<path d="M0 595.28 L10.63 595.28 L10.63 579.16 L21.52 579.16" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1.69837" y="582.289" width="17.8632" height="9.59985" class="st8"/>
+			<text x="1.7" y="589.49" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape113-90" v:mID="113" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-332.996)">
+			<title>동적 연결선.154</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.4547" cy="593.776" width="40" height="17.6036"/>
+			<path d="M0 593.78 L84.55 593.78 L84.55 582.6 L101.73 582.6" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="47.5231" y="588.977" width="17.8632" height="9.59985" class="st8"/>
+			<text x="47.52" y="596.18" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape114-95" v:mID="114" v:groupContext="shape" v:layerMember="1" transform="translate(499.341,-398.421)">
+			<title>동적 연결선.155</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="612.105" width="40" height="17.6036"/>
+			<path d="M0 595.28 L10.63 595.28 L10.63 632.42 L17.78 632.42" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1.69837" y="607.305" width="17.8632" height="9.59985" class="st8"/>
+			<text x="1.7" y="614.5" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape115-100" v:mID="115" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-250.211)">
+			<title>I/O 포트.45</title>
+			<desc>Ans5</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="21.88" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans5</text>		</g>
+		<g id="shape116-103" v:mID="116" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-170.196)">
+			<title>I/O 포트.46</title>
+			<desc>Ans6</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="21.88" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans6</text>		</g>
+		<g id="shape117-106" v:mID="117" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-290.219)">
+			<title>I/O 포트.47</title>
+			<desc>Ans4</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="22.58" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans4</text>		</g>
+		<g id="group118-109" transform="translate(436.903,-259.252)" v:mID="118" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>논리 게이트 2.48</title>
+			<desc>G2</desc>
+			<g id="shape119-110" v:mID="119" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.119</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape120-115" v:mID="120" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.120</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape121-117" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.121</title>
+			</g>
+			<g id="shape122-119" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.122</title>
+			</g>
+			<g id="shape123-121" v:mID="123" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.123</title>
+				<path d="M24.98 595.28 L0 595.28 L0 564.06 L24.98 564.06 A15.6094 15.6094 0 0 1 24.98 595.28 Z" class="st4"/>
+			</g>
+			<g id="shape118-123" v:mID="118" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.84" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G2</text>			</g>
+		</g>
+		<g id="group124-125" transform="translate(517.117,-222.024)" v:mID="124" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>논리 게이트 2.54</title>
+			<desc>G5</desc>
+			<g id="shape125-126" v:mID="125" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.125</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape126-131" v:mID="126" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.126</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape127-133" v:mID="127" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.127</title>
+			</g>
+			<g id="shape128-135" v:mID="128" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.128</title>
+			</g>
+			<g id="shape129-137" v:mID="129" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.129</title>
+				<path d="M24.98 595.28 L0 595.28 L0 564.06 L24.98 564.06 A15.6094 15.6094 0 0 1 24.98 595.28 Z" class="st4"/>
+			</g>
+			<g id="shape124-139" v:mID="124" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.14" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G5</text>			</g>
+		</g>
+		<g id="shape130-141" v:mID="130" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-295.663)">
+			<title>동적 연결선.60</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="602.493" width="40" height="17.6036"/>
+			<path d="M0 596.45 L10.63 596.45 L10.63 608.27 L21.52 608.27" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1.69837" y="597.693" width="17.8632" height="9.59985" class="st8"/>
+			<text x="1.7" y="604.89" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape131-146" v:mID="131" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-253.682)">
+			<title>동적 연결선.61</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="588.059" width="40" height="17.6036"/>
+			<path d="M0 594.48 L10.63 594.48 L10.63 581.9 L21.52 581.9" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1.69837" y="583.259" width="17.8632" height="9.59985" class="st8"/>
+			<text x="1.7" y="590.46" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape132-151" v:mID="132" v:groupContext="shape" v:layerMember="1" transform="translate(499.341,-196.885)">
+			<title>동적 연결선.62</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="0" cy="569.916" width="40" height="17.6036"/>
+			<path d="M0 595.28 L0 562.33 L17.78 562.33" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-8.93155" y="565.116" width="17.8632" height="9.59985" class="st8"/>
+			<text x="-8.93" y="572.32" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape133-156" v:mID="133" v:groupContext="shape" v:layerMember="1" transform="translate(499.341,-274.861)">
+			<title>동적 연결선.63</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="608.246" width="40" height="17.6036"/>
+			<path d="M0 595.28 L10.63 595.28 L10.63 624.7 L17.78 624.7" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1.69837" y="603.446" width="17.8632" height="9.59985" class="st8"/>
+			<text x="1.7" y="610.65" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape134-161" v:mID="134" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-90.1809)">
+			<title>I/O 포트.64</title>
+			<desc>Ans8</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="21.88" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans8</text>		</g>
+		<g id="shape135-164" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-50.1732)">
+			<title>I/O 포트.65</title>
+			<desc>Ans9</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="21.88" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans9</text>		</g>
+		<g id="shape136-167" v:mID="136" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-130.189)">
+			<title>I/O 포트.66</title>
+			<desc>Ans7</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="22.58" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans7</text>		</g>
+		<g id="group137-170" transform="translate(436.903,-105.43)" v:mID="137" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>논리 게이트 2.67</title>
+			<desc>G3</desc>
+			<g id="shape138-171" v:mID="138" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.138</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape139-176" v:mID="139" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.139</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape140-178" v:mID="140" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.140</title>
+			</g>
+			<g id="shape141-180" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.141</title>
+			</g>
+			<g id="shape142-182" v:mID="142" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.142</title>
+				<path d="M24.98 595.28 L0 595.28 L0 564.06 L24.98 564.06 A15.6094 15.6094 0 0 1 24.98 595.28 Z" class="st4"/>
+			</g>
+			<g id="shape137-184" v:mID="137" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.84" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G3</text>			</g>
+		</g>
+		<g id="group143-186" transform="translate(529.747,-93.3265)" v:mID="143" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>Logic gate 2.73</title>
+			<desc>G6</desc>
+			<g id="shape144-187" v:mID="144" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.144</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape145-192" v:mID="145" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.145</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape146-194" v:mID="146" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.146</title>
+			</g>
+			<g id="shape147-196" v:mID="147" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.147</title>
+			</g>
+			<g id="shape148-198" v:mID="148" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.148</title>
+				<path d="M24.98 595.28 L0 595.28 L0 564.06 L24.98 564.06 A15.6094 15.6094 0 0 1 24.98 595.28 Z" class="st4"/>
+			</g>
+			<g id="shape143-200" v:mID="143" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.14" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G6</text>			</g>
+		</g>
+		<g id="shape149-202" v:mID="149" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-138.737)">
+			<title>동적 연결선.79</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="602.493" width="40" height="17.6036"/>
+			<path d="M0 599.56 L10.63 599.56 L10.63 605.17 L21.52 605.17" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1.69837" y="597.693" width="17.8632" height="9.59985" class="st8"/>
+			<text x="1.7" y="604.89" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape150-207" v:mID="150" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-94.4496)">
+			<title>동적 연결선.80</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="585.753" width="40" height="17.6036"/>
+			<path d="M0 595.28 L10.63 595.28 L10.63 576.49 L21.52 576.49" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1.69837" y="580.953" width="17.8632" height="9.59985" class="st8"/>
+			<text x="1.7" y="588.15" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape151-212" v:mID="151" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-54.4419)">
+			<title>동적 연결선.81</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="80.5266" cy="595.276" width="40" height="17.6036"/>
+			<path d="M0 595.28 L84.55 595.28 L84.55 548.59 L114.36 548.59" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="71.595" y="590.476" width="17.8632" height="9.59985" class="st8"/>
+			<text x="71.6" y="597.68" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="shape152-217" v:mID="152" v:groupContext="shape" v:layerMember="1" transform="translate(499.341,-125.977)">
+			<title>동적 연결선.82</title>
+			<desc>False</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.0535" cy="604.512" width="40" height="17.6036"/>
+			<path d="M0 600.21 L10.63 600.21 L10.63 604.51 L30.41 604.51" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="4.12193" y="599.712" width="17.8632" height="9.59985" class="st8"/>
+			<text x="4.12" y="606.91" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>False</text>		</g>
+		<g id="group153-222" transform="translate(592.892,-158.631)" v:mID="153" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>논리 게이트 2.83</title>
+			<desc>G7</desc>
+			<g id="shape154-223" v:mID="154" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.154</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape155-228" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.155</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape156-230" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.156</title>
+			</g>
+			<g id="shape157-232" v:mID="157" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.157</title>
+			</g>
+			<g id="shape158-234" v:mID="158" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.158</title>
+				<path d="M24.98 595.28 L0 595.28 L0 564.06 L24.98 564.06 A15.6094 15.6094 0 0 1 24.98 595.28 Z" class="st4"/>
+			</g>
+			<g id="shape153-236" v:mID="153" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.14" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G7</text>			</g>
+		</g>
+		<g id="group159-238" transform="translate(643.409,-287.903)" v:mID="159" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>논리 게이트 2.89</title>
+			<desc>G8</desc>
+			<g id="shape160-239" v:mID="160" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.160</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape161-244" v:mID="161" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.161</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape162-246" v:mID="162" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.162</title>
+			</g>
+			<g id="shape163-248" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.163</title>
+			</g>
+			<g id="shape164-250" v:mID="164" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.164</title>
+				<path d="M24.98 595.28 L0 595.28 L0 564.06 L24.98 564.06 A15.6094 15.6094 0 0 1 24.98 595.28 Z" class="st4"/>
+			</g>
+			<g id="shape159-252" v:mID="159" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.14" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G8</text>			</g>
+		</g>
+		<g id="shape165-254" v:mID="165" v:groupContext="shape" v:layerMember="0" transform="translate(718.476,-299.244)">
+			<title>I/O 포트.95</title>
+			<desc>Bearing has Minor Defect on Outboard Bearing</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="576.136" width="100.59" height="21.2035"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="-29.41" y="573.79" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Bearing has Minor Defect <v:newlineChar/><tspan
+						x="-17.04" dy="1.207em" class="st9">on Outboard Bearing</tspan></text>		</g>
+		<g id="shape166-258" v:mID="166" v:groupContext="shape" v:layerMember="1" transform="translate(579.555,-353.475)">
+			<title>동적 연결선.96</title>
+			<path d="M0 595.28 L10.63 595.28 L10.63 637.43 L63.85 637.43" class="st6"/>
+		</g>
+		<g id="shape167-261" v:mID="167" v:groupContext="shape" v:layerMember="1" transform="translate(579.137,-237.633)">
+			<title>동적 연결선.97</title>
+			<path d="M0.42 595.28 L5.73 595.28 L5.73 650.86 L13.76 650.86" class="st6"/>
+		</g>
+		<g id="shape168-264" v:mID="168" v:groupContext="shape" v:layerMember="1" transform="translate(585.452,-108.936)">
+			<title>동적 연결선.98</title>
+			<path d="M6.73 595.28 L17.36 595.28 L17.36 552.67 L0.35 552.67 L0.35 537.78 L7.44 537.78" class="st6"/>
+		</g>
+		<g id="shape169-267" v:mID="169" v:groupContext="shape" v:layerMember="1" transform="translate(656.456,-174.241)">
+			<title>동적 연결선.99</title>
+			<path d="M-1.13 595.28 L9.5 595.28 L9.5 492.24 L-23.68 492.24 L-23.68 473.81 L-13.05 473.81" class="st6"/>
+		</g>
+		<g id="shape170-270" v:mID="170" v:groupContext="shape" v:layerMember="1" transform="translate(705.074,-296.426)">
+			<title>동적 연결선.100</title>
+			<path d="M0.77 588.19 L13.4 588.19" class="st6"/>
+		</g>
+		<g id="shape171-273" v:mID="171" v:groupContext="shape" v:layerMember="0" transform="translate(381.233,-210.204)">
+			<title>I/O 포트.171</title>
+			<desc>Ans5</desc>
+			<v:userDefs>
+				<v:ud v:nameU="Form" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(단방향 또는 양방향 I/O 포트입니다. )"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0749" cy="580.936" width="21.88" height="11.6036"/>
+			<path d="M0 591.01 L0 586.74 L25.61 586.74 L34.15 591.01 L25.61 595.28 L0 595.28 L0 591.01 Z" class="st4"/>
+			<text x="8.19" y="583.34" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Ans5</text>		</g>
+		<g id="group172-276" transform="translate(436.903,-181.276)" v:mID="172" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Input" v:lbl="입력 수" v:type="1" v:format="2;3;4;5" v:sortKey="2" v:langID="1042" v:val="VT4(2)"/>
+				<v:cp v:nameU="Type" v:lbl="게이트 종류" v:type="1" v:format="OR;AND;NOR;NAND;XOR;XNOR" v:sortKey="1" v:langID="1042"
+						v:val="VT4(AND)"/>
+				<v:cp v:nameU="Out" v:lbl="출력 수" v:type="1" v:format="1;2;3" v:sortKey="3" v:langID="1042" v:val="VT4(1)"/>
+				<v:cp v:nameU="Type" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="SubType" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="LimitHeight" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visDescription" v:val="VT4(여러 가지 모양의 논리 게이트를 나타냅니다.)"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.10839864333757):1"/>
+			</v:userDefs>
+			<title>논리 게이트 2.172</title>
+			<desc>G2</desc>
+			<g id="shape173-277" v:mID="173" v:groupContext="shape" v:layerMember="0" transform="translate(0,-7.8047)">
+				<title>시트.173</title>
+				<path d="M0 579.67 L31.22 579.67" class="st6"/>
+				<path d="M0 595.28 L31.22 595.28" class="st6"/>
+				<path d="M62.44 587.47 L31.22 587.47" class="st6"/>
+			</g>
+			<g id="shape174-282" v:mID="174" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.174</title>
+				<v:userDefs>
+					<v:ud v:nameU="X" v:val="VT0(0.029527559055118):24"/>
+					<v:ud v:nameU="X" v:prompt="" v:val="VT0(0.054199321668783):1"/>
+				</v:userDefs>
+				<path d="M40.58 579.67 A42.0372 25.7546 0 0 1 12.18 595.28 L0 595.28 A60.2292 36.9002 -180 0 0 0 564.06 L12.18 564.06
+							 A41.4742 25.4097 0 0 1 40.58 579.67 Z" class="st4"/>
+			</g>
+			<g id="shape175-284" v:mID="175" v:groupContext="shape" v:layerMember="0" transform="translate(0,5.20313)">
+				<title>시트.175</title>
+			</g>
+			<g id="shape176-286" v:mID="176" v:groupContext="shape" v:layerMember="0" transform="translate(42.2744,-3.9225)">
+				<title>시트.176</title>
+			</g>
+			<g id="shape177-288" v:mID="177" v:groupContext="shape" v:layerMember="0" transform="translate(10.9266,0)">
+				<title>시트.177</title>
+				<path d="M24.98 595.28 L0 595.28 L0 564.06 L24.98 564.06 A15.6094 15.6094 0 0 1 24.98 595.28 Z" class="st4"/>
+			</g>
+			<g id="shape172-290" v:mID="172" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.2188" cy="601.077" width="14.84" height="11.6036"/>
+				<text x="26.21" y="603.48" class="st5" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>G2</text>			</g>
+		</g>
+		<g id="shape178-292" v:mID="178" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-216.668)">
+			<title>동적 연결선.178</title>
+			<path d="M0 597.47 L10.63 597.47 L10.63 607.25 L21.52 607.25" class="st6"/>
+		</g>
+		<g id="shape179-295" v:mID="179" v:groupContext="shape" v:layerMember="1" transform="translate(415.383,-174.465)">
+			<title>동적 연결선.179</title>
+			<path d="M0 595.28 L10.63 595.28 L10.63 580.66 L21.52 580.66" class="st6"/>
+		</g>
+		<g id="shape180-298" v:mID="180" v:groupContext="shape" transform="translate(263.539,-552.179)">
+			<title>시트.180</title>
+			<desc>Gear Fault 21 - Bearing has Possible Lubrication</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="169.412" cy="584.074" width="338.83" height="22.4037"/>
+			<rect x="0" y="572.872" width="338.824" height="22.4037" class="st1"/>
+			<text x="8.16" y="588.27" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Gear Fault 21 - Bearing has Possible Lubrication</text>		</g>
+	</g>
+</svg>
