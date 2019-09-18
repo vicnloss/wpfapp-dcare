@@ -1,0 +1,6 @@
+class AccountModel
+{
+    public AccountModel()
+    {
+    }
+}
